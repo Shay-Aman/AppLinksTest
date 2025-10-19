@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.zeekr.mobile",
+      "sha256_cert_fingerprints": [
+        "3B:F0:9D:9A:71:03:8C:B3:F3:70:47:04:02:36:46:37:D7:22:3E:7D:5C:7A:06:26:83:09:71:84:14:10:72:29"
+      ]
+    }
+  }
+]
